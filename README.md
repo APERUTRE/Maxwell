@@ -2,4 +2,4 @@
 
 I'm the man himself the Founder of Aperture Studio
 
-[![SkillIcons](https://skillicons.dev/icons?i=lua,C,CPP,php)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=lua,c,cpp,php,html)](https://skillicons.dev)<br/>
